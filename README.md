@@ -6,7 +6,7 @@ A Streamlit app that generates FAQs from PDFs or text using Groq LLM.
 
 1. Clone the repo:
 
-git clone https://github.com/your-username/ai-faq-generator.git
+git clone https://github.com/RVidhathri/FAQ_generator
 
 
 2.Create virtual environment:
@@ -22,4 +22,5 @@ GROQ_API_KEY=your_api_key_here
 
 5.Run the app:
 streamlit run app.py
+
 
